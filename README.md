@@ -1,5 +1,7 @@
 # Clinical Trials Interactive Dashboard
 
+Visit the [link](https://leafsphere.shinyapps.io/clinical_trials/) in the About section to try out the live app!
+
 ![preview of dashboard](preview.png)
 
 The goal of this R Shiny app is to provide a user-friendly interface that
